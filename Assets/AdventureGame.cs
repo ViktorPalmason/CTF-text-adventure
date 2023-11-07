@@ -13,7 +13,7 @@ public class AdventureGame : MonoBehaviour
     {
         string introText = "Get up Hector! If you get handle this than you will never rank up.";
         textComponent.text = introText;
-
+    }
     // Update is called once per frame
     void Update()
     {
