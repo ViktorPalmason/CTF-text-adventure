@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: East
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: You went east.
+  nextStates:
+  - {fileID: 11400000, guid: 6fdeb58595c47f8498b6da61aa6c0905, type: 2}
