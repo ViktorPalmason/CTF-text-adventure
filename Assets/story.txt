@@ -1,0 +1,11 @@
+FIRST STATE:
+
+Your class is playing capture the flag and your team got the rights
+to choose which side of the field will be your team's. 
+Your team captain turns to you and asks what side should be your team's, East or West.
+
+Which side do you choose?
+1. East
+2. West
+
+

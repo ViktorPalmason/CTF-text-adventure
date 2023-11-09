@@ -7,12 +7,15 @@ using UnityEngine.UI;
 public class AdventureGame : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI textComponent;
+    [SerializeField] State startingState;
+
+    State state;
 
     // Start is called before the first frame update
     void Start()
     {
-        string introText = "Get up Hector! If you get handle this than you will never rank up.";
-        textComponent.text = introText;
+        state = startingState;
+        textComponent.text = state.GetStateStory();
     }
     // Update is called once per frame
     void Update()
