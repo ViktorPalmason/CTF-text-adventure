@@ -17,19 +17,17 @@ MonoBehaviour:
     abandoned fortress, partially hidden by the trees.
 
 
-
     Options:
 
 
+    1. Investigate
+    the abandoned fortress for potential advantages.
 
-    1.
-    Investigate the abandoned fortress for potential advantages.
+    2. Utilize the dense woods
+    for stealth and set up traps.
 
-    2. Utilize
-    the dense woods for stealth and set up traps.
-
-    3. Send scouts to survey the
-    open fields for enemy movement.'
+    3. Send scouts to survey the open fields for
+    enemy movement.'
   nextStates:
   - {fileID: 11400000, guid: 18709f08feb952342929fdd864b04a5b, type: 2}
   - {fileID: 0}

@@ -32,15 +32,18 @@ public class AdventureGame : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Alpha1) && nextStates.Length > 0)
         {
-            state = nextStates[0];
+            if(nextStates[0] != null) { state = nextStates[0]; }
+            else { Debug.Log("state is null"); }
         }
         else if (Input.GetKeyDown(KeyCode.Alpha2) && nextStates.Length > 1)
         {
-            state = nextStates[1];
+            if (nextStates[1] != null) { state = nextStates[1]; }
+            else { Debug.Log("state is null"); }
         }
         else if (Input.GetKeyDown(KeyCode.Alpha3) && nextStates.Length > 2)
         {
-            state = nextStates[2];
+            if (nextStates[2] != null) { state = nextStates[2]; }
+            else { Debug.Log("state is null"); }
         }
 
         textComponent.text = state.GetStateStory();
