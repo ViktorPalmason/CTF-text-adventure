@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: B11-Equip weapons
+  m_EditorClassIdentifier: 
+  storyText: 'Great! Your team equips themselves with the discovered weapons, ranging
+    from swords to makeshift shields. The feeling of empowerment courses through
+    your ranks as you exit the armory.
+
+    
+
+    As your team leaves the fortress,
+    you hear distant footsteps and catch a glimpse of the opposing team advancing
+    towards the fortress.
+
+    
+
+    Options:
+
+    
+
+    1. Prepare for a defensive
+    stance within the fortress.
+
+    2. Send a decoy group to mislead the opposing
+    team while the majority of your team flanks them.
+
+    3. Retreat quietly and
+    regroup with your team on the western side of the field.'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 788136603ec64144baa6976e656eaee0, type: 2}
+  - {fileID: 0}

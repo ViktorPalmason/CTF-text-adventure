@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: B1-Abandoned Fortress
+  m_EditorClassIdentifier: 
+  storyText: 'Bold choice! Your team cautiously approaches the fortress, the creaking
+    sound of the rusty gate echoing through the air as you enter. Inside, you find
+    remnants of an old armory with dusty weapons and worn-out armor.
+
+    
+
+    Options:
+
+    
+
+    1.
+    Arm your team with the found weapons for a strategic advantage.
+
+    2. Search
+    for hidden passages or defensive positions within the fortress.
+
+    3. Leave
+    the fortress and head back to your side of the field before the opposing team
+    notices your absence'
+  nextStates:
+  - {fileID: 11400000, guid: b4c88a5f663cbf342af75d55df04f38d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}

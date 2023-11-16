@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: B112-Send decoy group
+  m_EditorClassIdentifier: 
+  storyText: "A clever strategy! Your team splits into two groups\u2014a decoy group
+    that confidently marches towards the opposing team, drawing their attention,
+    and a flanking group that silently moves through the woods to catch the enemy
+    off guard.\r\n\r\nAs the decoy group engages the opponents, the flanking team
+    executes a successful ambush. Chaos ensues among the opposing team, giving your
+    team the upper hand.\r\n\r\nOptions:\r\n\r\n1. Press the advantage and push deeper
+    into enemy territory.\r\n2. Capture the flag while the opposing team is disoriented.\r\n3.
+    Fall back to the fortress for a more defensive position."
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: b19abeb83e9e21949929fbd8fcc9b3f2, type: 2}
+  - {fileID: 0}

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: End1122-Capture the flag
+  m_EditorClassIdentifier: 
+  storyText: 'With the opposing team disoriented by your successful ambush, you seize
+    the opportunity to infiltrate their territory. The flag is in sight, guarded
+    by only a few bewildered opponents.
+
+
+
+    Your team moves with precision, dodging
+    obstacles and navigating through the chaos. As you reach the flag, a teammate
+    swiftly grabs it, and together you make a triumphant retreat.
+
+
+
+    The opposing
+    team, still reeling from the surprise attack, struggles to regroup. Your team,
+    now in possession of the flag, races back towards your side of the field. The
+    cheers from your teammates echo through the woods.
+
+
+
+    As you approach your
+    territory, the game announcer declares your victory. Your team celebrates, high-fiving
+    and cheering for a well-executed strategy.
+
+
+
+    The school bell rings, signaling
+    the end of the game and the return to reality. You and your classmates gather
+    your belongings and head back to the school building, feeling a sense of camaraderie
+    after a thrilling game of Capture the Flag.
+
+
+
+    Congratulations! Your team
+    has emerged victorious in this epic game, and you''ve earned the admiration of
+    your classmates for your strategic prowess. The memories of this exciting adventure
+    linger as you continue with the rest of your day.
+
+
+    Press ''1'' to play again'
+  nextStates:
+  - {fileID: 11400000, guid: 6fdeb58595c47f8498b6da61aa6c0905, type: 2}
