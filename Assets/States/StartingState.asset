@@ -17,5 +17,5 @@ MonoBehaviour:
     turns to you and asks which side you want to to choose for your team. East or
     West.\r\n\r\nWhich side do you choose?\r\n1. East\r\n2. West"
   nextStates:
-  - {fileID: 11400000, guid: 560f2d5ab44d8e84c8dae02faa9c8b6d, type: 2}
   - {fileID: 11400000, guid: b953d04804ce4c9469bdc9d25a9c7042, type: 2}
+  - {fileID: 11400000, guid: 560f2d5ab44d8e84c8dae02faa9c8b6d, type: 2}

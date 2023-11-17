@@ -30,20 +30,18 @@ public class AdventureGame : MonoBehaviour
     {
         var nextStates = state.GetNextStates();
 
-        if (Input.GetKeyDown(KeyCode.Alpha1) && nextStates.Length > 0)
+        // loop through the array of next optional states
+        for (int index = 0; index < nextStates.Length; index++)
         {
-            if(nextStates[0] != null) { state = nextStates[0]; }
-            else { Debug.Log("state is null"); }
-        }
-        else if (Input.GetKeyDown(KeyCode.Alpha2) && nextStates.Length > 1)
-        {
-            if (nextStates[1] != null) { state = nextStates[1]; }
-            else { Debug.Log("state is null"); }
-        }
-        else if (Input.GetKeyDown(KeyCode.Alpha3) && nextStates.Length > 2)
-        {
-            if (nextStates[2] != null) { state = nextStates[2]; }
-            else { Debug.Log("state is null"); }
+            // Check if the an alpha key corresponding to one of the options in a state is pressed.
+            //
+            // The length of the array matches the number of options pressented in a state so
+            // we increment index by one up to the length of the array and use it
+            // to check each alpha key corresponding to an option.
+            if(Input.GetKeyDown(KeyCode.Alpha1 + index) && nextStates[index] != null)
+            {
+                state = nextStates[index];
+            }
         }
 
         textComponent.text = state.GetStateStory();
