@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: StartingState-East
+  m_EditorClassIdentifier: 
+  storyText: "Your class is playing capture the flag and your team has the rights\r\nto
+    choose which side of the field will be your team's. \r\nYour commanding officer
+    turns to you and asks which side you want to to choose for your team. East or
+    West.\r\n\r\nWhich side do you choose?\r\n1. East\r\n2. West"
+  nextStates:
+  - {fileID: 11400000, guid: b953d04804ce4c9469bdc9d25a9c7042, type: 2}
+  - {fileID: 11400000, guid: 560f2d5ab44d8e84c8dae02faa9c8b6d, type: 2}

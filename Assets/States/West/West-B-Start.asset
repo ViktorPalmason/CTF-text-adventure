@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
-  m_Name: B-Start
+  m_Name: West-B-Start
   m_EditorClassIdentifier: 
   storyText: 'As your team confidently heads to the western side, you notice the
     terrain is a mix of dense woods and open fields. In the distance, you spot an
