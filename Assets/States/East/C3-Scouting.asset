@@ -12,30 +12,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: C3-Scouting
   m_EditorClassIdentifier: 
-  storyText: 'Your team confidently heads to the eastern side of the field, where
-    a vast open field and the ruins of an ancient amphitheater await.
+  storyText: 'Smart move! Your team sends scouts into the nearby wooded areas, and
+    those with an affinity for the earth element use their skills to blend with nature.
+    They move silently, avoiding detection as they gather valuable intel.
 
+    
 
+    The
+    scouts report back with information about the opposing team''s movements and
+    potential ambush points.
 
-    As your
-    team explores the ruins, you discover hidden nooks and crannies that could serve
-    as advantageous positions. The sun begins to set, casting long shadows across
-    the field.
-
-
+    
 
     Options:
 
+    
 
+    1. Use the gathered
+    intel to set up traps in the wooded areas. Success
 
-    1. Use the open field for strategic maneuvers
-    and long-range attacks.
+    2. Plan a coordinated
+    strike based on the enemy''s location. Success
 
-    2.Investigate the ruins of the amphitheater for
-    potential advantages.
-
-    3. Send scouts to survey the nearby wooded areas for
-    enemy movement.'
+    3. Return to the open field
+    and use the information to strategically position your team. Fail'
   nextStates:
   - {fileID: 0}
   - {fileID: 0}

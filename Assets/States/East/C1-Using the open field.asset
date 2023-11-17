@@ -16,16 +16,13 @@ MonoBehaviour:
     a vast open field and the ruins of an ancient amphitheater await.
 
 
-
     As your
     team explores the ruins, you discover hidden nooks and crannies that could serve
     as advantageous positions. The sun begins to set, casting long shadows across
     the field.
 
 
-
     Options:
-
 
 
     1. Use the open field for strategic maneuvers
@@ -37,6 +34,6 @@ MonoBehaviour:
     3. Send scouts to survey the nearby wooded areas for
     enemy movement.'
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: e7ba3fcc974267d4b8a62a11a01c4213, type: 2}
+  - {fileID: 11400000, guid: 71e87c1951bf6564ebd3240b7b395a3d, type: 2}
+  - {fileID: 11400000, guid: f2ca4f3d6d132d94e8058e21e07fb385, type: 2}

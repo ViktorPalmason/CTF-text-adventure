@@ -12,30 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: C2-Amphitheater
   m_EditorClassIdentifier: 
-  storyText: 'Your team confidently heads to the eastern side of the field, where
-    a vast open field and the ruins of an ancient amphitheater await.
-
-
-
-    As your
-    team explores the ruins, you discover hidden nooks and crannies that could serve
-    as advantageous positions. The sun begins to set, casting long shadows across
-    the field.
-
-
-
-    Options:
-
-
-
-    1. Use the open field for strategic maneuvers
-    and long-range attacks.
-
-    2.Investigate the ruins of the amphitheater for
-    potential advantages.
-
-    3. Send scouts to survey the nearby wooded areas for
-    enemy movement.'
+  storyText: "Certainly! Your team decides to investigate the ruins of the amphitheater
+    for potential advantages. As you explore, you find hidden tunnels beneath the
+    seating area and a high vantage point overlooking the field.\r\n\r\nOptions:\r\n\r\n1.
+    Utilize the hidden tunnels for a surprise attack on the opposing team.\r\n2.
+    Take the high vantage point to scout and gather intel on the opposing team's
+    movements. \r\n3. Ignore the ruins and focus on the open field for strategic
+    maneuvers."
   nextStates:
   - {fileID: 0}
   - {fileID: 0}
