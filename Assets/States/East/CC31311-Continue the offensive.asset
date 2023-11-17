@@ -12,9 +12,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: CC31311-Continue the offensive
   m_EditorClassIdentifier: 
-  storyText: 'GAME OVER YOU WON!
+  storyText: 'Your team, fueled by determination, decides to launch a frontal assault
+    on the fortress, focusing on breaking through the main entrance. As your team
+    advances, the imposing structure looms ahead, its ancient stones echoing with
+    the challenge of the impending clash.
 
+    
 
-    Press 1 to play again'
+    The opposing team, aware of
+    the threat, readies their defenses within the fortress walls. Archers take their
+    positions on the ramparts, and guards stand vigilant at the entrance. The clash
+    is inevitable, and your team prepares for the intense showdown.
+
+    
+
+    Options:
+
+    
+
+    1.
+    Engage in a direct confrontation, using sheer force to breach the fortress and
+    capture the flag.
+
+    2. Utilize ranged attacks and siege weapons to weaken
+    the fortress defenses before the frontal assault.
+
+    3. Send a small, elite
+    group to infiltrate the fortress from a different angle while the main force
+    attacks.'
   nextStates:
-  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}
+  - {fileID: 11400000, guid: 88adf757e6c5742489fe881f2b801408, type: 2}
+  - {fileID: 11400000, guid: 6e38370021b795d4289a94091257492f, type: 2}
+  - {fileID: 11400000, guid: db7376aa6c1cda64cb1519027b1d1ce9, type: 2}

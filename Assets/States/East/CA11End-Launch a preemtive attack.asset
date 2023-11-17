@@ -12,9 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: CA11End-Launch a preemtive attack
   m_EditorClassIdentifier: 
-  storyText: 'GAME OVER YOU LOST!
+  storyText: 'Eager to gain an early advantage, your team launches a preemptive long-range
+    attack on the opposing team. However, the attack, though bold, lacks coordination
+    and strategy. The opposing team quickly adapts to the situation, using cover
+    and terrain to their advantage.
+
+    
+
+    As your team exhausts resources
+    and exposes themselves, the opposing team retaliates with a well-coordinated
+    counterattack. Caught in the open field without a solid defensive strategy, your
+    team faces overwhelming force, leading to defeat and the loss of the game.
 
 
-    Press 1 to play again'
+    Press
+    1 to play again'
   nextStates:
   - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

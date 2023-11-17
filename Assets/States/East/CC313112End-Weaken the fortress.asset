@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC313112End-Weaken the fortress
+  m_EditorClassIdentifier: 
+  storyText: 'As your team begins the barrage of ranged attacks and siege weapon
+    assaults, the opposing team quickly adapts to the strategy. They fortify their
+    defenses, utilizing shields and magical barriers to withstand the onslaught.
+    The time taken to weaken the fortress allows the opposing team to counteract
+    and reinforce their positions.
+
+
+
+    In a sudden turn of events, the opposing
+    team launches a counterattack, taking advantage of the weakened state of your
+    forces. The fortress, now more resilient than before, becomes an impenetrable
+    barrier. Your team faces a relentless assault, resulting in defeat and the loss
+    of the game.
+
+
+    Push 1 to play again'
+  nextStates:
+  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

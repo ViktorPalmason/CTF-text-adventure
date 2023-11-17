@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CB2221-Decoy flag
+  m_EditorClassIdentifier: 
+  storyText: 'Your team swiftly and skillfully stages a convincing setup, placing
+    a decoy flag in a strategic but misleading position. The opposing team, observing
+    from a distance, falls for the ruse, believing they have identified the true
+    location of your flag.
+
+
+    As the opposing team diverts their focus to the
+    decoy flag, your team seizes the opportunity to reinforce the actual defensive
+    position. The diversion proves successful, and the opposing team is left scrambling
+    to decipher the real location of your flag.
+
+
+    Options:
+
+
+    1. Use the diversion
+    to launch a surprise attack on the opposing team.
+
+    2. Consolidate your defensive
+    position, anticipating the opposing team''s next move.
+
+    3. Send scouts to
+    monitor the opposing team''s reaction and gather further intel.'
+  nextStates:
+  - {fileID: 11400000, guid: f852cca817b2cad46bd385e88f5dc0e9, type: 2}
+  - {fileID: 11400000, guid: 221faffa94592c24d84ba079441df8b9, type: 2}
+  - {fileID: 11400000, guid: bab0425049737354f871544fc0db184a, type: 2}

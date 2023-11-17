@@ -10,11 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
-  m_Name: CB211-SUCCESS option
+  m_Name: CB2123End-Return to the tunnels
   m_EditorClassIdentifier: 
-  storyText: 'GAME OVER YOU WON!
+  storyText: 'As your team retreats to the tunnels, the opposing team, having detected
+    your presence, surrounds the entrance, cutting off any escape route. Trapped
+    and outnumbered, your team faces a relentless assault. The opposing team retrieves
+    your flag from the amphitheater, securing their victory and your team''s defeat.
 
 
-    Press 1 to play again'
+    Press
+    1 to play again'
   nextStates:
   - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

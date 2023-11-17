@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CB22212End-Consolidate defensive position
+  m_EditorClassIdentifier: 
+  storyText: 'As your team focuses on consolidating the defensive position, the opposing
+    team, having identified the decoy flag, launches a decisive and coordinated attack
+    on your true defensive position. The defensive measures, while well-intentioned,
+    are not enough to withstand the onslaught.
+
+
+    The opposing team breaches your
+    defenses, captures the flag, and secures victory. It''s a bitter realization
+    for your team that the diversion, while successful in confusing the enemy, did
+    not translate into an effective defensive strategy.
+
+
+    Press 1 to play again'
+  nextStates:
+  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

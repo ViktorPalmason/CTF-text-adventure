@@ -12,10 +12,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: StartingState-East
   m_EditorClassIdentifier: 
-  storyText: "Your class is playing capture the flag and your team has the rights\r\nto
-    choose which side of the field will be your team's. \r\nYour commanding officer
-    turns to you and asks which side you want to to choose for your team. East or
-    West.\r\n\r\nWhich side do you choose?\r\n1. East\r\n2. West"
+  storyText: 'Your class is playing Capture the flag and after a coin flip your team
+    is to use the east side of the playingfield to place and protect the flag.
+
+    
+
+    As
+    your team confidently heads to the eastern side of the field,  a vast open field
+    and ruins of an ancient amphitheater await them.
+
+
+    Your team explores the
+    ruins, and discover hidden nooks and crannies that could serve as advantageous
+    positions. The sun begins to set, casting long shadows across the field.
+
+
+    Options:
+
+
+    1.
+    Use the open field for strategic maneuvers and long-range attacks.
+
+    2.Investigate
+    the ruins of the amphitheater for potential advantages.
+
+    3. Send scouts to
+    survey the nearby wooded areas for enemy movement.'
   nextStates:
-  - {fileID: 11400000, guid: b953d04804ce4c9469bdc9d25a9c7042, type: 2}
-  - {fileID: 11400000, guid: 560f2d5ab44d8e84c8dae02faa9c8b6d, type: 2}
+  - {fileID: 11400000, guid: 2b21b107d7b92cc4aa137c1efb9771c9, type: 2}
+  - {fileID: 11400000, guid: e79ee8612b3ffec49b9d0ea5a5fed0aa, type: 2}
+  - {fileID: 11400000, guid: a28738b59feed584cac354321bf1936a, type: 2}

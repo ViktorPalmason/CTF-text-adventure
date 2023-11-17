@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC313113Win-Infiltrate the fortress
+  m_EditorClassIdentifier: 
+  storyText: 'The elite group moves with precision, finding a hidden entrance and
+    infiltrating the fortress undetected. As the main force engages the defenders
+    in a frontal assault, the elite team maneuvers through secret passages, avoiding
+    the brunt of the opposition.
+
+
+
+    With skillful stealth and timing, the elite
+    team reaches the inner chambers, retrieves the opposing team''s flag, and signals
+    the victory. The defenders inside the fortress are caught off guard, and your
+    team celebrates a strategic triumph.
+
+
+
+    Congratulations on achieving victory
+    in the game!
+
+
+    Press 1 to play'
+  nextStates:
+  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

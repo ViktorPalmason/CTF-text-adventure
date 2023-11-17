@@ -12,7 +12,43 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: CB223End-Return to the open field
   m_EditorClassIdentifier: 
-  storyText: 'GAME OVER YOU LOST!
+  storyText: 'As your team descends from the high vantage point and attempts to strategically
+    position yourselves in the open field, a crucial oversight is made. The opposing
+    team, quick to adapt to your movements, anticipates your strategy and counters
+    effectively.
+
+    
+
+    Caught in a vulnerable position, your team becomes
+    the target of a well-coordinated assault from the opposing team. Despite your
+    initial advantage, the failure to execute the strategy allows the opposing team
+    to turn the tide.
+
+    
+
+    The opposing team seizes this opportunity, launching
+    a counterattack that pushes your team back and leaves you in a precarious position.
+
+    
+
+    In
+    the midst of the chaos, the opposing team, capitalizing on your vulnerability,
+    executes a swift and well-coordinated assault. Despite your team''s efforts to
+    regroup and defend, the opposing team manages to breach your defenses and infiltrate
+    the open field.
+
+    
+
+    With strategic precision, the opposing team locates
+    and captures your flag, securing a decisive victory. The sight of your flag in
+    the hands of the enemy is a bitter realization that the failure to strategically
+    position your team has cost you the game.
+
+    
+
+    As the opposing team celebrates
+    their triumph, your team reflects on the importance of adaptability and the consequences
+    of overlooking crucial details in the heat of battle.
 
 
     Press 1 to play again

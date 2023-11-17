@@ -12,13 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: CB21-Utilize the hidden tunnels
   m_EditorClassIdentifier: 
-  storyText: '1. SUCCESS OPTION. Success
+  storyText: 'Your team emerges from the tunnels, catching the opposing team off
+    guard. The surprise attack is swift and decisive, allowing your team to weaken
+    the enemy''s defenses and gain a strategic advantage.
 
-    2. Plan a coordinated strike based
-    on the enemy''s location. Success
+    
 
-    3. FAIL OPTION. Fail'
+    Options:
+
+    
+
+    1.
+    Press the advantage and launch a full-scale assault on the opposing team.
+
+    2.
+    Send a small, agile group to infiltrate the enemy lines and gather intel.
+
+    3.
+    Consolidate your position and fortify the area for a defensive strategy.'
   nextStates:
+  - {fileID: 11400000, guid: be2ce38fedd42b44a8b0eefc29224a27, type: 2}
   - {fileID: 11400000, guid: 89dbf724c1da0bb4f86a6821c37d75fe, type: 2}
-  - {fileID: 11400000, guid: bfadf5fc66e58cd4fb9be610d109c1e9, type: 2}
   - {fileID: 11400000, guid: 08002c0c01c4f7841945c3d5682753a1, type: 2}

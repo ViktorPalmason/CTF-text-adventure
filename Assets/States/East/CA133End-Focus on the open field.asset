@@ -12,7 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: CA133End-Focus on the open field
   m_EditorClassIdentifier: 
-  storyText: 'GAME OVER YOU LOST!
+  storyText: 'As your team ignores the defensive cover of the ruins and focuses on
+    the open field, the opposing team exploits the exposed position. They launch
+    a coordinated assault, catching your team off guard and overwhelming your forces.
+    The lack of cover and strategic disadvantage result in a swift defeat, and the
+    opposing team secures victory by capturing your flag.
+
+    
+
+    It''s a tough
+    lesson learned about the importance of utilizing available advantages on the
+    battlefield.
 
 
     Press 1 to play again'

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CB22211Win-Launch a surprise attack
+  m_EditorClassIdentifier: 
+  storyText: 'Capitalizing on the confusion caused by the decoy flag, your team executes
+    a swift and coordinated surprise attack on the opposing team. Caught off guard
+    and disoriented, the enemy struggles to regroup as your team infiltrates their
+    defensive lines.
+
+
+    The surprise attack proves highly effective, disrupting
+    the opposing team''s coordination and creating chaos among their ranks. Your
+    team manages to breach the fortress, retrieve the flag, and secure victory.
+
+
+    As
+    the opposing team realizes the deception, it''s too late to mount a counterattack.
+    Your team celebrates a well-executed strategy that outmaneuvered the enemy.
+
+
+    Congratulations
+    on achieving victory! If you have any more decisions to make or if you''d like
+    to explore a different branch, feel free to let me know!
+
+
+    Press 1 to play
+    again'
+  nextStates:
+  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

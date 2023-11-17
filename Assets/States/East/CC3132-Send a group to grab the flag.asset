@@ -35,6 +35,6 @@ MonoBehaviour:
     3. Abandon the mission and regroup with
     the main team in the woods'
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 644423704fddb1349aa2e22b67f0056a, type: 2}
+  - {fileID: 11400000, guid: ab74dcf38c1679e45bebd92cd5874804, type: 2}
+  - {fileID: 11400000, guid: ce715c86cc5cd254d9848ed6b04c4d9b, type: 2}

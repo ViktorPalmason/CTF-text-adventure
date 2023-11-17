@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC313111End-Engage in direct confrontation
+  m_EditorClassIdentifier: 
+  storyText: 'As your team charges headlong towards the main entrance, the opposing
+    team''s defenders prove to be a formidable obstacle. The fortress, designed with
+    strategic advantages, allows the defenders to repel your frontal assault with
+    well-coordinated resistance.
+
+
+    Caught in a barrage of arrows and spells,
+    your team faces significant casualties. The opposing team, leveraging the fortress''s
+    defensive features, turns the tide against your exhausted and weakened forces.
+    In the end, your team is unable to breach the fortress, leading to defeat and
+    the loss of the game.
+
+
+    Push 1 to play again'
+  nextStates:
+  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

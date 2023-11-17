@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: CB22-Take the High vantage point
   m_EditorClassIdentifier: 
-  storyText: '1. Use the gathered intel to set up traps in the wooded areas. Success
-
-    2.
-    SUCCESS OPTION. Success
-
-    3. Return to the open field and use the information
-    to strategically position your team. Fail'
+  storyText: "Your team ascends to the high vantage point in the ruins of the amphitheater,
+    scanning the surroundings for any signs of the opposing team. From this elevated
+    position, your scouts gather valuable intel on the opposing team's movements
+    and positions. \r\n\r\n\r\n1. Use the gathered intel to set up traps in the wooded
+    areas. Success\r\n2. Create a diversionary tactic to mislead the opposing team
+    about your flag's location.\r\n3. Return to the open field and use the information
+    to strategically position your team. Fail"
   nextStates:
   - {fileID: 11400000, guid: 42fcb09c5396ef844bb42ff1c3ebe6e5, type: 2}
   - {fileID: 11400000, guid: 647b594650694fa4eb13537a34ef5f66, type: 2}

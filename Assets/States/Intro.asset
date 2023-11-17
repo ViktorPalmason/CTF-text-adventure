@@ -27,4 +27,4 @@ MonoBehaviour:
     Press
     1 to start the game.'
   nextStates:
-  - {fileID: 11400000, guid: 6fdeb58595c47f8498b6da61aa6c0905, type: 2}
+  - {fileID: 11400000, guid: 599006c640625bc4db7771b45d89f710, type: 2}

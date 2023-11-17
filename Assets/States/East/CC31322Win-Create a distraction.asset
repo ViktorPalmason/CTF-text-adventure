@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC31322Win-Create a distraction
+  m_EditorClassIdentifier: 
+  storyText: 'your team creates a distraction outside the fortress, diverting attention
+    while a smaller group sneaks in. The diversionary tactic successfully confuses
+    the opposing team, allowing your infiltrators to search for and retrieve the
+    flag undetected.
+
+    
+
+    As the distraction unfolds outside, your team secures
+    the flag and makes a strategic retreat to the wooded areas. The opposing team,
+    disoriented and misled, fails to realize the flag has been taken until it''s
+    too late.
+
+    
+
+    Your team celebrates a well-executed plan, and the game
+    is won! Congratulations on achieving victory through cunning strategy and teamwork.
+
+
+    Push
+    1 to play again'
+  nextStates:
+  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

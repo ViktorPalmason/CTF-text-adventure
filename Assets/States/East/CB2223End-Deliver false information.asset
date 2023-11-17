@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CB2223End-Deliver false information
+  m_EditorClassIdentifier: 
+  storyText: 'The small group, tasked with delivering false information, underestimates
+    the cunning of the opposing team. The deceptive plan backfires as the information
+    is intercepted and used against your team. Seizing the opportunity, the opposing
+    team swiftly infiltrates your defensive position, retrieves the flag, and secures
+    victory.
+
+
+    It''s a bitter defeat for your team, and as the opposing team
+    celebrates, your team reflects on the importance of executing deceptive strategies
+    with caution.
+
+
+    Press 1 to play again'
+  nextStates:
+  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

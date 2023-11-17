@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CB212-Send a group to infiltrate the enemy lines
+  m_EditorClassIdentifier: 
+  storyText: 'Your team sends a small, agile group to infiltrate the enemy lines
+    and gather intel. This decision leads to success!
+
+    
+
+    The agile group
+    moves silently through the enemy lines, collecting valuable information about
+    the opposing team''s positions and strategy. The intel provides your team with
+    a significant advantage.
+
+    
+
+    Options:
+
+    
+
+    1. Launch a surprise
+    attack, targeting key members of the opposing team.
+
+    2. Use the gathered
+    intel to set up traps in strategic locations.
+
+    3. Return to the hidden tunnels
+    beneath the amphitheater for a tactical retreat.'
+  nextStates:
+  - {fileID: 11400000, guid: 0912f1441dc57e7438c6eefcf305814a, type: 2}
+  - {fileID: 11400000, guid: 42fcb09c5396ef844bb42ff1c3ebe6e5, type: 2}
+  - {fileID: 11400000, guid: cfc97768dd71ecf42a8d6f8bfbe41cb0, type: 2}
