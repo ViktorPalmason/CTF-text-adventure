@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC313-Create a diversion
+  m_EditorClassIdentifier: 
+  storyText: "A cunning move! Your team selects a small, agile group to create a
+    diversion. They skillfully attract the attention of the opposing team, leading
+    them deeper into the trap-laden woods.\r\n\r\nAs the enemy falls into the strategically
+    placed traps, chaos ensues. Your main team takes advantage of the distraction
+    to position themselves for a decisive strike.\r\n\r\nOptions:\r\n\r\n1. Capitalize
+    on the confusion and launch a full-scale assault.\r\n2. Send a group to retrieve
+    the flag while the enemy is disoriented. \r\n3. Use the opportunity to negotiate
+    a truce with the opposing team. "
+  nextStates:
+  - {fileID: 11400000, guid: be2ce38fedd42b44a8b0eefc29224a27, type: 2}
+  - {fileID: 11400000, guid: a8786da35de5bad4799e08e9bd0a0af5, type: 2}
+  - {fileID: 11400000, guid: 2bcb9c01ba632324cb9332ee0381fbaa, type: 2}

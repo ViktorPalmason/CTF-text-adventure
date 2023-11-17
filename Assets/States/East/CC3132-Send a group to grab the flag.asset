@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC3132-Send a group to grab the flag
+  m_EditorClassIdentifier: 
+  storyText: 'An intriguing choice! Your team, seizing the opportunity, sends a small,
+    swift group to infiltrate the abandoned fortress the other team uses as its stronghold
+    and retrieve the flag while the opposing team is disoriented in the trap-laden
+    woods.
+
+    
+
+    As they approach the fortress, the team realizes the challenge
+    ahead due to the unfamiliar terrain. The flag is hidden within, presenting a
+    difficult task.
+
+    
+
+    Options:
+
+    
+
+    1. Quietly infiltrate the
+    fortress and search for the flag.
+
+    2. Create a distraction outside the fortress
+    to divert attention while a smaller group sneaks in.
+
+    3. Abandon the mission
+    and regroup with the main team in the woods'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

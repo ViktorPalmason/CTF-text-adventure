@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC3131-Launch an assult
+  m_EditorClassIdentifier: 
+  storyText: 'Certainly! As your team pushes deeper into enemy territory, you notice
+    the opposing team falling back towards the old fortress on the West side. It
+    becomes clear that they are using it as a stronghold to protect their flag.
+
+    
+
+    Options:
+
+    
+
+    1.
+    Continue the offensive and attempt to breach the fortress to capture the opposing
+    team''s flag.
+
+    2. Consolidate your position outside the fortress and set
+    up defensive measures to secure your gains.
+
+    3. Retreat to the safety of
+    the wooded areas, reassessing your strategy.'
+  nextStates:
+  - {fileID: 11400000, guid: e470ebdc616b8124793e681ccfaef1d0, type: 2}
+  - {fileID: 11400000, guid: 404be511321fe5544803f75f51f475a1, type: 2}
+  - {fileID: 11400000, guid: 41ec493fb160463479c0fb31c2a31098, type: 2}

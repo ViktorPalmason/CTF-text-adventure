@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CA13-Fall back to the amphitheater
+  m_EditorClassIdentifier: 
+  storyText: "1. Utilize the hidden tunnels for a surprise attack on the opposing
+    team. Success\r\n2. Take the high vantage point to scout and gather intel on
+    the opposing team's movements. Success \r\n3. Ignore the ruins and focus on the
+    open field for strategic maneuvers."
+  nextStates:
+  - {fileID: 11400000, guid: 714f922965965d544bee306f4f24789a, type: 2}
+  - {fileID: 11400000, guid: 7390ecf45a77d6a49825b1e9beb8dc28, type: 2}
+  - {fileID: 11400000, guid: 1a6af844b9c6b2a4ab4f407aac1155d2, type: 2}

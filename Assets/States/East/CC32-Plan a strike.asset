@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC32-Plan a strike
+  m_EditorClassIdentifier: 
+  storyText: 'Excellent choice! Your team plans a coordinated strike based on the
+    information gathered from the scouts. As you position yourselves, you notice
+    the opposing team scattered throughout the wooded areas.
+
+    
+
+    Options:
+
+    
+
+    1.
+    Launch a surprise attack, targeting the dispersed members of the opposing team.
+
+    2.
+    Send a small, agile group to infiltrate the enemy lines and disrupt their coordination.
+
+    3.
+    Fall back to the ruins of the amphitheater and assess the situation from a defensive
+    position.'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

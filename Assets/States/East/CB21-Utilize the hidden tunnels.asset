@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CB21-Utilize the hidden tunnels
+  m_EditorClassIdentifier: 
+  storyText: '1. SUCCESS OPTION. Success
+
+    2. Plan a coordinated strike based
+    on the enemy''s location. Success
+
+    3. FAIL OPTION. Fail'
+  nextStates:
+  - {fileID: 11400000, guid: 89dbf724c1da0bb4f86a6821c37d75fe, type: 2}
+  - {fileID: 11400000, guid: bfadf5fc66e58cd4fb9be610d109c1e9, type: 2}
+  - {fileID: 11400000, guid: 08002c0c01c4f7841945c3d5682753a1, type: 2}

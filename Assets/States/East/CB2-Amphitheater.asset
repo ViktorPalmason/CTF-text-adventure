@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
-  m_Name: C2-Amphitheater
+  m_Name: CB2-Amphitheater
   m_EditorClassIdentifier: 
   storyText: "Certainly! Your team decides to investigate the ruins of the amphitheater
     for potential advantages. As you explore, you find hidden tunnels beneath the
@@ -20,6 +20,6 @@ MonoBehaviour:
     movements. \r\n3. Ignore the ruins and focus on the open field for strategic
     maneuvers."
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 714f922965965d544bee306f4f24789a, type: 2}
+  - {fileID: 11400000, guid: 7390ecf45a77d6a49825b1e9beb8dc28, type: 2}
+  - {fileID: 11400000, guid: 2b21b107d7b92cc4aa137c1efb9771c9, type: 2}

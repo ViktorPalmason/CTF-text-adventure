@@ -10,29 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
-  m_Name: C1-Using the open field
+  m_Name: CA1-Using the open field
   m_EditorClassIdentifier: 
-  storyText: 'Your team confidently heads to the eastern side of the field, where
-    a vast open field and the ruins of an ancient amphitheater await.
+  storyText: 'Great choice! Your team decides to use the open field for strategic
+    maneuvers and long-range attacks. The vast space provides an advantage for your
+    team to spot the opposing team''s movements.
 
 
-    As your
-    team explores the ruins, you discover hidden nooks and crannies that could serve
-    as advantageous positions. The sun begins to set, casting long shadows across
-    the field.
+    As you position yourselves,
+    you notice the opposing team approaching from the edge of the field.
 
 
     Options:
 
 
-    1. Use the open field for strategic maneuvers
-    and long-range attacks.
+    1.
+    Launch a preemptive long-range attack to weaken the opposing team.
 
-    2.Investigate the ruins of the amphitheater for
-    potential advantages.
+    2. Send
+    a small group to flank the enemy while the main force engages from a distance.
 
-    3. Send scouts to survey the nearby wooded areas for
-    enemy movement.'
+    3.
+    Fall back to the ruins of the amphitheater for cover and a defensive position.'
   nextStates:
   - {fileID: 11400000, guid: e7ba3fcc974267d4b8a62a11a01c4213, type: 2}
   - {fileID: 11400000, guid: 71e87c1951bf6564ebd3240b7b395a3d, type: 2}

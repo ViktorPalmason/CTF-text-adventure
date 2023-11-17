@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
+  m_Name: CC31312-Set up defensive measures
+  m_EditorClassIdentifier: 
+  storyText: 'your team decides to consolidate the position outside the fortress
+    and set up defensive measures to secure your gains.
+
+    
+
+    1. Send scouts
+    to gather intelligence on the fortress and the opposing team''s movements.
+
+    2.
+    Fortify the defensive position with barricades and traps to deter the opposing
+    team.
+
+    3. Deploy a diversionary tactic to draw the attention of the opposing
+    team away from the fortress.'
+  nextStates:
+  - {fileID: 11400000, guid: c5aa15083f5f1764ca473d603d1b4384, type: 2}
+  - {fileID: 11400000, guid: 657c5b9e44656a84099134b533c94793, type: 2}
+  - {fileID: 11400000, guid: 207432b9843a39441b112bc15eb78b5d, type: 2}
