@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e93827c4460664a989cb29690bebbe, type: 3}
   m_Name: Intro
   m_EditorClassIdentifier: 
-  storyText: 'Welcom to my "choose your own path" game!
+  storyText: 'Welcome to my "choose your own path" game!
 
 
-    The story is that you
-    are playing "Capture the Flag" game with your class and you get to decide what 
+    The story is that
+    you are playing "Capture the Flag" with your class and you get to decide what
     your team does during the game.
 
 
     You play by pressing  ''1'', ''2'', or
-    ''3'' that respectively match the options given at each decision point.
+    ''3'' that respectively match the options given at each decision points.
 
 
     Press
