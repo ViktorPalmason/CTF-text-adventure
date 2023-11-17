@@ -47,4 +47,4 @@ MonoBehaviour:
 
     Press ''1'' to play again'
   nextStates:
-  - {fileID: 11400000, guid: 6fdeb58595c47f8498b6da61aa6c0905, type: 2}
+  - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}
