@@ -17,26 +17,23 @@ MonoBehaviour:
     and retrieve the flag while the opposing team is disoriented in the trap-laden
     woods.
 
-    
 
-    As they approach the fortress, the team realizes the challenge
-    ahead due to the unfamiliar terrain. The flag is hidden within, presenting a
-    difficult task.
+    As they approach the fortress, the team realizes the challenge ahead
+    due to the unfamiliar terrain. The flag is hidden within, presenting a difficult
+    task.
 
-    
 
     Options:
 
-    
 
-    1. Quietly infiltrate the
-    fortress and search for the flag.
+    1. Quietly infiltrate the fortress and search for
+    the flag.
 
-    2. Create a distraction outside the fortress
-    to divert attention while a smaller group sneaks in.
+    2. Create a distraction outside the fortress to divert attention
+    while a smaller group sneaks in.
 
-    3. Abandon the mission
-    and regroup with the main team in the woods'
+    3. Abandon the mission and regroup with
+    the main team in the woods'
   nextStates:
   - {fileID: 0}
   - {fileID: 0}

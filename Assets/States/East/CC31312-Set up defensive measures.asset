@@ -15,17 +15,16 @@ MonoBehaviour:
   storyText: 'your team decides to consolidate the position outside the fortress
     and set up defensive measures to secure your gains.
 
-    
 
-    1. Send scouts
-    to gather intelligence on the fortress and the opposing team''s movements.
+    1. Send scouts to gather
+    intelligence on the fortress and the opposing team''s movements.
 
-    2.
-    Fortify the defensive position with barricades and traps to deter the opposing
-    team.
+    2. Fortify
+    the defensive position with barricades and traps to deter the opposing team.
 
-    3. Deploy a diversionary tactic to draw the attention of the opposing
-    team away from the fortress.'
+    3.
+    Deploy a diversionary tactic to draw the attention of the opposing team away
+    from the fortress.'
   nextStates:
   - {fileID: 11400000, guid: c5aa15083f5f1764ca473d603d1b4384, type: 2}
   - {fileID: 11400000, guid: 657c5b9e44656a84099134b533c94793, type: 2}

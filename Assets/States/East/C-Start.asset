@@ -15,27 +15,24 @@ MonoBehaviour:
   storyText: 'Your team confidently heads to the eastern side of the field, where
     a vast open field and the ruins of an ancient amphitheater await.
 
-    
 
-    As
-    your team explores the ruins, you discover hidden nooks and crannies that could
-    serve as advantageous positions. The sun begins to set, casting long shadows
-    across the field.
+    As your
+    team explores the ruins, you discover hidden nooks and crannies that could serve
+    as advantageous positions. The sun begins to set, casting long shadows across
+    the field.
 
-    
 
     Options:
 
-    
 
-    1. Use the open field for
-    strategic maneuvers and long-range attacks.
+    1. Use the open field for strategic maneuvers
+    and long-range attacks.
 
-    2.Investigate the ruins of
-    the amphitheater for potential advantages.
+    2.Investigate the ruins of the amphitheater for
+    potential advantages.
 
-    3. Send scouts to survey the
-    nearby wooded areas for enemy movement.'
+    3. Send scouts to survey the nearby wooded areas for
+    enemy movement.'
   nextStates:
   - {fileID: 11400000, guid: 2b21b107d7b92cc4aa137c1efb9771c9, type: 2}
   - {fileID: 11400000, guid: e79ee8612b3ffec49b9d0ea5a5fed0aa, type: 2}
