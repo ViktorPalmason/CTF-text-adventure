@@ -30,6 +30,6 @@ MonoBehaviour:
     Fall back to the ruins of the amphitheater and assess the situation from a defensive
     position.'
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 0912f1441dc57e7438c6eefcf305814a, type: 2}
+  - {fileID: 11400000, guid: 89dbf724c1da0bb4f86a6821c37d75fe, type: 2}
+  - {fileID: 11400000, guid: e79ee8612b3ffec49b9d0ea5a5fed0aa, type: 2}

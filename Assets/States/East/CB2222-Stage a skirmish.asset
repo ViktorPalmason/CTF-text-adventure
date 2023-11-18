@@ -17,21 +17,18 @@ MonoBehaviour:
     with your team creating the illusion of a significant engagement in a carefully
     chosen location.
 
-    
 
     Options:
 
-    
 
-    1. While the opposing team
-    is distracted, send a stealthy group to infiltrate their base.
+    1. While the opposing team is distracted,
+    send a stealthy group to infiltrate their base.
 
-    2. Use the
-    opportunity to gather intel on the opposing team''s defensive positions.
+    2. Use the opportunity to
+    gather intel on the opposing team''s defensive positions.
 
-    3.
-    Maintain the diversion and prepare for a surprise attack on the distracted opposing
-    team.'
+    3. Maintain the
+    diversion and prepare for a surprise attack on the distracted opposing team.'
   nextStates:
   - {fileID: 11400000, guid: acba3be35f802fb48a0e5f5a87211941, type: 2}
   - {fileID: 11400000, guid: 0481561d9996f5c4a956007daf93a592, type: 2}

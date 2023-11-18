@@ -16,21 +16,19 @@ MonoBehaviour:
     challenges within the unfamiliar terrain. The flag''s location proves elusive,
     and the opposing team, detecting the intrusion, quickly mobilizes their defenses.
 
-    
 
     Caught
     in a labyrinth of passages and chambers, your team struggles to navigate the
     fortress effectively. The opposing team seizes the opportunity to launch a counterattack,
     trapping your team within the stronghold.
 
-    
 
-    In the chaos that ensues,
-    your team is unable to locate the flag, and the opposing team secures victory.
-    The fortress, once a potential advantage, becomes a maze of defeat.
+    In the chaos that ensues, your
+    team is unable to locate the flag, and the opposing team secures victory. The
+    fortress, once a potential advantage, becomes a maze of defeat.
 
 
-    Push
-    1 to play again'
+    Push 1
+    to play again'
   nextStates:
   - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

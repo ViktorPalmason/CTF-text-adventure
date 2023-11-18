@@ -18,13 +18,12 @@ MonoBehaviour:
     The lack of cover and strategic disadvantage result in a swift defeat, and the
     opposing team secures victory by capturing your flag.
 
-    
 
-    It''s a tough
-    lesson learned about the importance of utilizing available advantages on the
-    battlefield.
+    It''s a tough lesson
+    learned about the importance of utilizing available advantages on the battlefield.
 
 
-    Press 1 to play again'
+    Press
+    1 to play again'
   nextStates:
   - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

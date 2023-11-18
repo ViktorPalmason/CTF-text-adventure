@@ -15,7 +15,7 @@ MonoBehaviour:
   storyText: "Your team ascends to the high vantage point in the ruins of the amphitheater,
     scanning the surroundings for any signs of the opposing team. From this elevated
     position, your scouts gather valuable intel on the opposing team's movements
-    and positions. \r\n\r\n\r\n1. Use the gathered intel to set up traps in the wooded
+    and positions. \r\n\r\r\n1. Use the gathered intel to set up traps in the wooded
     areas. Success\r\n2. Create a diversionary tactic to mislead the opposing team
     about your flag's location.\r\n3. Return to the open field and use the information
     to strategically position your team. Fail"

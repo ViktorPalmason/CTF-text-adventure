@@ -17,29 +17,25 @@ MonoBehaviour:
     advances, the imposing structure looms ahead, its ancient stones echoing with
     the challenge of the impending clash.
 
-    
 
-    The opposing team, aware of
-    the threat, readies their defenses within the fortress walls. Archers take their
-    positions on the ramparts, and guards stand vigilant at the entrance. The clash
-    is inevitable, and your team prepares for the intense showdown.
+    The opposing team, aware of the threat,
+    readies their defenses within the fortress walls. Archers take their positions
+    on the ramparts, and guards stand vigilant at the entrance. The clash is inevitable,
+    and your team prepares for the intense showdown.
 
-    
 
     Options:
 
-    
 
-    1.
-    Engage in a direct confrontation, using sheer force to breach the fortress and
-    capture the flag.
+    1. Engage
+    in a direct confrontation, using sheer force to breach the fortress and capture
+    the flag.
 
-    2. Utilize ranged attacks and siege weapons to weaken
-    the fortress defenses before the frontal assault.
+    2. Utilize ranged attacks and siege weapons to weaken the fortress
+    defenses before the frontal assault.
 
-    3. Send a small, elite
-    group to infiltrate the fortress from a different angle while the main force
-    attacks.'
+    3. Send a small, elite group to infiltrate
+    the fortress from a different angle while the main force attacks.'
   nextStates:
   - {fileID: 11400000, guid: 88adf757e6c5742489fe881f2b801408, type: 2}
   - {fileID: 11400000, guid: 6e38370021b795d4289a94091257492f, type: 2}

@@ -15,27 +15,24 @@ MonoBehaviour:
   storyText: 'Your team sends a small, agile group to infiltrate the enemy lines
     and gather intel. This decision leads to success!
 
-    
 
-    The agile group
-    moves silently through the enemy lines, collecting valuable information about
-    the opposing team''s positions and strategy. The intel provides your team with
-    a significant advantage.
+    The agile group moves
+    silently through the enemy lines, collecting valuable information about the opposing
+    team''s positions and strategy. The intel provides your team with a significant
+    advantage.
 
-    
 
     Options:
 
-    
 
-    1. Launch a surprise
-    attack, targeting key members of the opposing team.
+    1. Launch a surprise attack, targeting key members
+    of the opposing team.
 
-    2. Use the gathered
-    intel to set up traps in strategic locations.
+    2. Use the gathered intel to set up traps in strategic
+    locations.
 
-    3. Return to the hidden tunnels
-    beneath the amphitheater for a tactical retreat.'
+    3. Return to the hidden tunnels beneath the amphitheater for
+    a tactical retreat.'
   nextStates:
   - {fileID: 11400000, guid: 0912f1441dc57e7438c6eefcf305814a, type: 2}
   - {fileID: 11400000, guid: 42fcb09c5396ef844bb42ff1c3ebe6e5, type: 2}

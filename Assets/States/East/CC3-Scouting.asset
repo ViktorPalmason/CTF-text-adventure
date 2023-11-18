@@ -26,13 +26,13 @@ MonoBehaviour:
 
 
     1. Use the gathered intel to set
-    up traps in the wooded areas. Success
+    up traps in the wooded areas.
 
-    2. Plan a coordinated strike based
-    on the enemy''s location. Success
+    2. Plan a coordinated strike based on the
+    enemy''s location.
 
-    3. Return to the open field and use the
-    information to strategically position your team. Fail'
+    3. Return to the open field and use the information to
+    strategically position your team.'
   nextStates:
   - {fileID: 11400000, guid: 42fcb09c5396ef844bb42ff1c3ebe6e5, type: 2}
   - {fileID: 11400000, guid: bfadf5fc66e58cd4fb9be610d109c1e9, type: 2}

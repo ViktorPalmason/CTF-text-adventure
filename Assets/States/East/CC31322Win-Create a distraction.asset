@@ -17,20 +17,21 @@ MonoBehaviour:
     the opposing team, allowing your infiltrators to search for and retrieve the
     flag undetected.
 
-    
 
     As the distraction unfolds outside, your team secures
     the flag and makes a strategic retreat to the wooded areas. The opposing team,
     disoriented and misled, fails to realize the flag has been taken until it''s
     too late.
 
-    
 
-    Your team celebrates a well-executed plan, and the game
-    is won! Congratulations on achieving victory through cunning strategy and teamwork.
+    Your team celebrates a well-executed plan, and the game is won!
+    Congratulations on achieving victory through cunning strategy and teamwork.
 
 
-    Push
-    1 to play again'
+    Congratulations
+    on achieving victory!
+
+
+    Push 1 to play again'
   nextStates:
   - {fileID: 11400000, guid: 4cdd940049ee1254694f47ddd00e5165, type: 2}

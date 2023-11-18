@@ -16,19 +16,17 @@ MonoBehaviour:
     team about your flag''s location.
 
 
-
     Options:
 
 
+    1. Implement a decoy flag
+    in a different location to distract the opposing team.
 
-    1. Implement a decoy
-    flag in a different location to distract the opposing team.
+    2. Stage a fake skirmish
+    in one area to draw the attention away from the real flag.
 
-    2. Stage a fake
-    skirmish in one area to draw the attention away from the real flag.
-
-    3. Send
-    a small group to deliver false information to the opposing team about your strategy.'
+    3. Send a small
+    group to deliver false information to the opposing team about your strategy.'
   nextStates:
   - {fileID: 11400000, guid: 350a0398d6ac8a348823476a4e75d82b, type: 2}
   - {fileID: 11400000, guid: 32fb60b8879246c48a8a22007bd70db2, type: 2}
